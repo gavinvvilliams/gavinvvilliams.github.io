@@ -97,7 +97,7 @@ h1 .fullStop {
 }
 
 .father:hover::after {
-  display: block;
+  /*display: block;*/
 }
 
 .father::after {
